@@ -1,0 +1,18 @@
+Required MongoDB
+
+Collection: projects
+
+Document structure:
+
+{
+    "_id" :
+    "langs" : [ 
+        ""
+    ],
+    "name" : "",
+    "description" : "",
+    "category" : "",
+    "year" : 0,
+    "image" : "",
+    "__v" : 0
+}
